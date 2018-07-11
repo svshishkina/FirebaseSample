@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseSample</string>
+    <string name="save_btn_text">Сохранить</string>
+    <string name="gender_text">Пол</string>
+    <string name="female_text">Женский</string>
+    <string name="male_text">Мужской</string>
+</resources>
